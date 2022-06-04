@@ -1,0 +1,4 @@
+name: Quapi Gui Api
+version: '${project.version}'
+main: me.yarinlevi.quapiguiapi.QGuiAPI
+api-version: 1.18
